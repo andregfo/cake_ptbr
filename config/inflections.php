@@ -39,6 +39,7 @@ $_pluralIrregular = array(
 	'mal' => 'males',
 	'mao' => 'maos',
 	'orfao' => 'orfaos',
+	'orgao' => 'orgaos',
 	'pais' => 'paises',
 	'pai' => 'pais',
 	'pao' => 'paes',
